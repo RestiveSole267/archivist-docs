@@ -8,3 +8,20 @@ repo_url: https://github.com/RestiveSole267/archivist
 theme:
   name: mkdocs
 
+plugins:
+  - search:
+      separator: '[\s\-]+'
+  - awesome-pages
+  - git-revision-date-localized:
+      type: date
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list
+  - md_in_html
