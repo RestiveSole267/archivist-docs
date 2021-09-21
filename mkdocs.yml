@@ -1,0 +1,18 @@
+site_name: Archivist
+site_url: 
+site_author: Cameron White
+site_description: A static generated website for archive history for important documents (constitutions, charters, standing rules), legislation, executive orders, etc.
+repo_name: RestiveSole267/archivist
+repo_url: https://github.com/RestiveSole267/archivist
+
+theme:
+  name: material
+
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
