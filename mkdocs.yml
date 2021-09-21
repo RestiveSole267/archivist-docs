@@ -6,5 +6,5 @@ repo_name: RestiveSole267/archivist
 repo_url: https://github.com/RestiveSole267/archivist
 
 theme:
-  name: material
+  name: mkdocs
 
