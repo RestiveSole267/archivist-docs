@@ -8,12 +8,6 @@ repo_url: https://github.com/RestiveSole267/archivist
 theme:
   name: mkdocs
 
-plugins:
-  - search:
-      separator: '[\s\-]+'
-  - git-revision-date-localized:
-      type: date
-
 markdown_extensions:
   - admonition
   - footnotes
