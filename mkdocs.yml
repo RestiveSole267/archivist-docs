@@ -8,13 +8,24 @@ repo_url: https://github.com/RestiveSole267/archivist
 theme:
   name: material
   features:
-    - tabs
-    - navigation.instant
+    - navigation.tabs
+    - content.tabs.link
+    
+  include_search_page: false
+  search_index_only: true
+
+  language: en
 
 markdown_extensions:
   - admonition
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
 
 plugins:
-    - search
-    - awesome-pages
+  - search:
+      separator: '[\s\-]+'
+  - awesome-pages
+  - git-revision-date-localized
 
