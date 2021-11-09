@@ -1,0 +1,2 @@
+!!! note
+    As of September 21, 2021, The State of Denten has been made a constitution but, is not currently available to the public. As soon as the Constitution is released to the public it will be added to this page.
