@@ -1,7 +1,14 @@
-# Home
+---
+title: Home
+---
+# Welcome to the Library of the Archivist
 
-!!! warning 
-    This website is currently under construction. Documents currently hosted on this website is subject to privation. 
+!!! info
+    This site is currently **under development**, and may be incomplete in certain sections.
 
-Welcome to the MayArchive site. The purpose of this site is to host and maintain updates of various documents from legislation to constitution with the Polperro Islands (Town of Anchorage & Fairbanks) & State of Denten categorized by each level of government associated with each state and/or town.
+The Archivist Library founded in 1st of May 2020, holds government records from the **State of Catalina (Anchorage & Fairbanks)**, the **State of Denten**, the **State of Mayflower**, and *hopefully* the **State of Theodore**. 
+
+This library contains sections of news broadcastings, important documents, congressional documents, executive documents, judicial documents & oral documents, and election data & documentation. At the bottom of each page is a last updated timestamp that tells you when someone has last updated the information. With the help of the goverments and their respected department, the Archivist Library is able to make this documents public for the people with no restrictions.
+
+Documentation will be support through Github. This webiste is maintained by RestiveSole267.
 

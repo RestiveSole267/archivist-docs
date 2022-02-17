@@ -1,3 +1,6 @@
+---
+title: Constitution of Anchorage
+---
 # The Constitution of Anchorage
 
 ## The Preamble
@@ -255,23 +258,26 @@ This constitution shall serve as a guide of the democracy represented in the Tow
 
 Signed,
  
-RestiveSole267
+/s/RestiveSole267, 
 Original Author
  
-Stanlabs
+/s/Stanlabs, 
 Original Author
  
-Avia_JP
+/s/Avia_JP, 
+Author & Editor
+
+/s/Luso, 
 Author & Editor
  
-PatBack74
+/s/PatBack74, 
 Mayor
  
-Danlabs
+/s/Danlabs, 
 Deputy Mayor
  
-koala4lif
+/s/koala4lif, 
 Chief Justice
  
-DirectBuzz
+/s/DirectBuzz, 
 District Attorney
