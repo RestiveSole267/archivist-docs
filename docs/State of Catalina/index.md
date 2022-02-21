@@ -6,9 +6,9 @@ Welcome to the Library of the State of Catalina. Down below is a status table wi
 
 | Sections            | Status                            |                                |
 | --------------------|-----------------------------------|--------------------------------|
-| Important Documents |:material-check-all: `UP TO DATE`  |[View Section](http://127.0.0.1:8000/archivist/State%20of%20Catalina/Important%20Documents/){ .md-button } |
-| Congress            |:material-check: `IN PROGRESS`     |[View Section](#){ .md-button } |
-| Exectuive           |:material-check: `IN PROGRESS`     |[View Section](#){ .md-button } |
-| Judicial            |:material-check: `IN PROGRESS`     |[View Section](#){ .md-button } |
+| Important Documents |:material-check-all: `UP TO DATE`  |[View Section](https://restivesole267.github.io/archivist/State%20of%20Catalina/Important%20Documents/){ .md-button } |
+| Congress            |:material-check: `IN PROGRESS`     |[View Section](https://restivesole267.github.io/archivist/State%20of%20Catalina/Congress/){ .md-button } |
+| Exectuive           |:material-check: `IN PROGRESS`     |[View Section](https://restivesole267.github.io/archivist/State%20of%20Catalina/Executive/){ .md-button } |
+| Judicial            |:material-check: `IN PROGRESS`     |[View Section](https://restivesole267.github.io/archivist/State%20of%20Catalina/Judicial/){ .md-button } |
 | News Broadcasts     |:material-close: `NOT STARTED`     |[N/A](#){ .md-button }          |
 
