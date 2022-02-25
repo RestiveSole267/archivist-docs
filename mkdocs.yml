@@ -24,6 +24,7 @@ copyright: Copyright &copy; 2022 Archivist Library
 markdown_extensions:
   - admonition
   - footnotes
+  - meta
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite

@@ -11,13 +11,14 @@ __Horror in the community tonight as multiple housing areas have been destroyed 
 ![@squidfunk][@squidfunk avatar]
 
 <span>__ChumUnicorn64__ · @squidfunk</span>
-<span>
-:octicons-calendar-24: July 11, 2020 ·
-</span>
+<span> :octicons-calendar-24: July 11, 2020 · </span>
 </aside>
 
     [@squidfunk avatar]: https://avatars.githubusercontent.com/u/932156
 
+---
+
+Horror in the community tonight as multiple housing areas have been destroyed in a griefing attack
 
 ## [The past, present and future]
 
